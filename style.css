@@ -1,0 +1,124 @@
+.navbar {
+    background-color: #000;
+}
+
+.nav-item {
+    padding-left: 1em;
+}
+
+.nav-link {
+    text-transform: uppercase;
+}
+
+.carousel-item {
+    height: 450px;
+}
+
+.carousel-img-1 {
+    background: url('img/download.jpg');
+    background-size: cover;
+}
+
+.carousel-img-2 {
+    background: url('img/px-beach-daylight-fun-1430675-image.jpg');
+    background-size: cover;
+}
+
+.carousel-img-3 {
+    background: url('img/ARTS-TIFF_REVIEW-COURTESY_PHOTOKINO_LORBER-IMAGE_BOOK_STILL-1080x720.jpg');
+    background-size: cover;
+}
+
+#homeicon .fa{
+        font-size: 50px;
+}
+
+#getstrat
+{
+    position: relative;
+    background: url('img/background-bright-close-up-environment-413195.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 250px;
+
+}
+.color-overlay
+    {
+
+        background:rgba(0,0,0,0.7);
+        width: 100%;
+        height: 100%;
+        position: absolute;
+
+    }
+#video{
+    position: relative;
+    background: url('img/download%20(1).jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 250px;
+}
+.color-overlay
+    {
+
+        background:rgba(0,0,0,0.7);
+        width: 100%;
+        height: 100%;
+        position: absolute;
+
+    }
+.fa
+{
+    font-size: 50px;
+}
+#gallary img
+{
+    min-height: 250px;
+    min-width: 350px;
+}
+#about
+{
+    background: url('img/1.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 200px;
+}
+#aboutinfo img
+{
+  height: 420px;
+  width: 420px;
+}
+#testimonial .slick-prev::before
+{
+  color: #000;
+}
+#testimonial .slick-next::before
+{
+  color: #000;
+}
+
+#service
+{
+    background: url('img/15.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 200px;
+}
+#footer
+{
+    background: #000;
+}
+@media(max-width:768px) {
+    .nav-item {
+        padding-left: 0em !important;
+
+    }
+    #homeicon .fa{
+        padding-top:4px;
+
+}
+}
