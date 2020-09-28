@@ -1,6 +1,6 @@
 # Glozzom
 This a multiple page static website created using Bootstrap Classes
 <br>
-##Contributor
+<h2>Contributor<h2>
 <br>
 Md Alamin Hossain
